@@ -1,7 +1,7 @@
 {
   "name": "plux",
   "description": "vanilla flux implementation with an elegant API",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "repository": {
     "url": "git://github.com/kepzorz/plux.git"
   },
