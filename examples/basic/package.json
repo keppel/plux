@@ -1,0 +1,20 @@
+{
+  "name": "basic",
+  "description": "basic example plux app",
+  "version": "0.0.0",
+  "repository": {
+    "url": "git://github.com/kepzorz/basic.git"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test/*.js"
+  },
+  "dependencies": {
+    "react": "^0.12.2",
+    "reactify": "^1.0.0"
+  },
+  "devDependencies": {
+    "tap": "~0.2.5",
+    "tape": "*"
+  }
+}
